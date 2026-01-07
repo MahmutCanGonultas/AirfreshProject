@@ -1,0 +1,234 @@
+{
+  "nav": {
+    "home": "Ana Sayfa",
+    "about": "Hakkımızda",
+    "products": "Ürünler",
+    "blog": "Bloglar",
+    "sectors": "Sektörler",
+    "faq": "S.S.S.",
+    "contact": "İletişim"
+  },
+  "hero": {
+    "titleAccent": "İçin KOKULANDIRMA ÇÖZÜMLERİ",
+    "subtitle": "Airfresh, markanıza özel tasarlanan kokularla mekânınızı sadece görülen değil, hatırlanan ve duygusal bağ kurulan bir deneyime dönüştürür.",
+    "cta": "Keşfet",
+    "badge": "Premium Parfüm Koleksiyonu",
+    "animatedText1": "Güzellik Merkezleri",
+    "animatedText2": "Restoranlar",
+    "animatedText3": "Okullar",
+    "animatedText4": "Mağazalar",
+    "animatedText5": "Hastaneler",
+    "button1": "Koleksiyonu Keşfet",
+    "button2": "Hakkımızda",
+    "stat1": "Yıllık Deneyim",
+    "stat2": "Mutlu Müşteri",
+    "stat3": "Özel Koleksiyon",
+    "scroll": "Keşfet"
+  },
+  "products": {
+    "title": "Koku Araçları",
+    "subtitle": "Zarafet ve kalitenin buluştuğu koleksiyonumuz",
+    "viewAll": "Tümünü Gör",
+    "categoryAll": "Tümü",
+    "categoryPremium": "Premium",
+    "categoryElite": "Elite",
+    "categoryLuxury": "Luxury",
+    "categoryExclusive": "Exclusive",
+    "badge": "Koleksiyon",
+    "notes": "Notlar",
+    "details": "Detay",
+    "viewDetails": "Detayları Gör"
+  },
+  "blog": {
+    "title": "Blog",
+    "subtitle": "Koku dünyasından son haberler ve ipuçları",
+    "readMore": "Devamını Oku",
+    "viewAll": "Tüm Blog Yazıları",
+    "badge": "Blog",
+    "post1": {
+      "title": "Parfüm Seçiminde Dikkat Edilmesi Gerekenler",
+      "excerpt": "Doğru parfümü seçmek için bilmeniz gereken tüm ipuçları ve püf noktaları...",
+      "category": "İpuçları"
+    },
+    "post2": {
+      "title": "Parfüm Notaları: Baş, Kalp ve Dip Notalar",
+      "excerpt": "Parfümünüzün yapısını anlamak için notalar hakkında bilmeniz gerekenler...",
+      "category": "Eğitim"
+    },
+    "post3": {
+      "title": "Mevsimsel Parfüm Kullanımı",
+      "excerpt": "Hangi mevsimde hangi parfümü kullanmalısınız? Mevsimsel parfüm rehberi...",
+      "category": "Rehber"
+    }
+  },
+  "footer": {
+    "description": "Zamansız zarafet ve lüks parfümlerin adresi",
+    "quickLinks": "Hızlı Bağlantılar",
+    "contact": "İletişim",
+    "followUs": "Bizi Takip Edin",
+    "rights": "Tüm hakları saklıdır."
+  },
+  "about": {
+    "title": "Hakkımızda",
+    "subtitle": "Zarafet ve kalitenin buluştuğu nokta",
+    "badge": "Hakkımızda",
+    "storyTitle": "Hikayemiz",
+    "story1": "Airfresh, 2010 yılından beri parfüm dünyasının en seçkin koleksiyonlarını müşterileriyle buluşturan, lüks ve kalite odaklı bir markadır. Her damlasında tutku, her notada mükemmellik arayanların tercihi olan markamız, dünya çapında tanınan parfüm evlerinin en özel koleksiyonlarını bir araya getirmektedir.",
+    "story2": "Misyonumuz, parfüm dünyasının en seçkin ürünlerini müşterilerimizle buluşturarak, her bireyin kendine özgü tarzını yansıtan mükemmel kokuyu bulmasına yardımcı olmaktır. Kalite, güvenilirlik ve müşteri memnuniyeti ilkelerimizle, parfüm tutkunlarına unutulmaz bir deneyim sunuyoruz.",
+    "story3": "Vizyonumuz, Türkiye'nin en prestijli parfüm markası olmak ve dünya çapında tanınan bir lüks parfüm destinasyonu haline gelmektir. Her yeni koleksiyonumuzda yenilikçi yaklaşımımızı sürdürerek, müşterilerimize en iyi deneyimi sunmaya devam ediyoruz.",
+    "valuesTitle": "Değerlerimiz",
+    "valuesSubtitle": "İş yapış şeklimizi belirleyen temel değerler",
+    "value1": {
+      "title": "Kalite",
+      "description": "En seçkin hammaddeler ve titiz üretim süreçleriyle kaliteyi garanti ediyoruz. Her ürünümüz, en yüksek standartlarda test edilir."
+    },
+    "value2": {
+      "title": "Müşteri Odaklılık",
+      "description": "Her müşterimizin ihtiyacını anlamak ve en iyi hizmeti sunmak için çalışıyoruz. Müşteri memnuniyeti bizim önceliğimizdir."
+    },
+    "value3": {
+      "title": "Yenilikçilik",
+      "description": "Sürekli gelişim ve yenilikçi yaklaşımımızla, parfüm dünyasında öncü olmaya devam ediyoruz."
+    },
+    "stat1": "Yıllık Deneyim",
+    "stat2": "Ürün Çeşidi",
+    "stat3": "Mutlu Müşteri",
+    "stat4": "Ödül ve Sertifika"
+  },
+  "contact": {
+    "title": "İletişim",
+    "subtitle": "Bizimle iletişime geçin",
+    "sendMessage": "Mesaj Gönderin",
+    "contactInfo": "İletişim Bilgileri",
+    "workingHours": "Çalışma Saatleri",
+    "form": {
+      "name": "Ad Soyad",
+      "namePlaceholder": "Adınız ve soyadınız",
+      "email": "E-posta",
+      "emailPlaceholder": "ornek@email.com",
+      "phone": "Telefon",
+      "phonePlaceholder": "+90 (5XX) XXX XX XX",
+      "message": "Mesajınız",
+      "messagePlaceholder": "Mesajınızı buraya yazın...",
+      "submit": "Gönder",
+      "success": "Mesajınız gönderildi! En kısa sürede size dönüş yapacağız."
+    },
+    "info": {
+      "email": "E-posta",
+      "phone": "Telefon",
+      "address": "Adres"
+    },
+    "hours": {
+      "weekdays": "Pazartesi - Cuma",
+      "saturday": "Cumartesi",
+      "sunday": "Pazar",
+      "closed": "Kapalı"
+    }
+  },
+  "features": {
+    "badge": "Neden Bizi Seçmelisiniz?",
+    "heading": "Kalite, Zarafet ve Tutku",
+    "feature1": {
+      "title": "Premium Kalite",
+      "description": "En seçkin hammaddelerle üretilen, zamansız zarafeti yansıtan koleksiyonlar"
+    },
+    "feature2": {
+      "title": "Uzman Ekip",
+      "description": "Yılların deneyimi ve tutkuyla çalışan parfüm uzmanlarımız"
+    },
+    "feature3": {
+      "title": "Güvenilir Hizmet",
+      "description": "Müşteri memnuniyeti odaklı, güvenilir ve profesyonel hizmet anlayışı"
+    },
+    "feature4": {
+      "title": "Özel Koleksiyonlar",
+      "description": "Sınırlı sayıda üretilen, özel tasarım parfüm koleksiyonları"
+    }
+  },
+  "referanslar": {
+    "title": "Referanslarımız",
+    "subtitle": "Güvenilir iş ortaklarımız ve referanslarımız"
+  },
+  "signature": {
+    "badge": "Hizmetlerimiz",
+    "title": "Airfresh",
+    "titleAccent": "Markanızın Görünmez İmzası",
+    "paragraph1": "Koku, insanın zihninde en güçlü ve kalıcı izleri oluşturan duyulardan biridir. Kurumsal koku, markanızın özelliklerini güçlendirerek müşteri deneyimini olağanüstü kılar. Doğru seçilmiş bir koku, müşterilerinizin zihninde olumlu duygular uyandırır, mekanınızda daha fazla vakit geçirmelerini sağlar.",
+    "paragraph2": "Airfresh olarak, firmanıza özel koku çözümleri sunarak, kurumsal kimliğinizi duyulara hitap eden bir deneyime dönüştürüyoruz.",
+    "paragraph3": "Sizi ve müşterilerinizi en iyi şekilde yansıtan kokuyu belirlemek için buradayız."
+  },
+  "gallery": {
+    "title": "Premium Koleksiyonumuz",
+    "badge": "Görsel Galeri"
+  },
+  "unique": {
+    "feature1": {
+      "title": "Özel Formülasyon",
+      "description": "Her parfümümüz, uzman parfümörlerimiz tarafından özenle formüle edilmiş, benzersiz bir koku profiline sahiptir."
+    },
+    "feature2": {
+      "title": "Sürdürülebilir Üretim",
+      "description": "Çevreye saygılı, sürdürülebilir üretim süreçlerimizle doğaya katkıda bulunuyoruz."
+    },
+    "feature3": {
+      "title": "Özel Paketleme",
+      "description": "Her ürünümüz, özel tasarım paketleme ile sunulur ve hediye olarak hazırlanabilir."
+    }
+  },
+  "sectors": {
+    "title": "Sektörler",
+    "subtitle": "Her sektöre özel koku çözümleri",
+    "badge": "Sektörlerimiz",
+    "viewDetails": "Detayları Gör",
+    "beauty": {
+      "title": "Güzellik Merkezleri",
+      "description": "Aromaterapik esanslar ve huzur veren çiçek notaları ile müşterilerinizin streslerini azaltın ve mekânınızda daha uzun süre keyifle vakit geçirmelerini sağlayın. Güzellik, sadece görünen değil, hissedilen bir olgudur!",
+      "detail": "Güzellik merkezleri, sadece bakım ve rahatlık alanları değil, aynı zamanda duyulara hitap eden özel mekanlardır. Kokular, bu sürecin en önemli unsurlarından biridir. Doğru ölçülen bir ortam kokusu, müşterilerin streslerinin azaltmasına ve mekânda daha uzun süre keyifle vakit geçirmesine yardımcı olur.\n\nAromaterapik esanslar, huzur veren çiçek notaları veya ferahlatıcı bitkisel kokular, güzelliğin hem sakinleştirici hem de yenileyici bir atmosfer yaratır. Ayrıca, hoş bir koku algısı, müşteri açısından genişletici markanın akılda kalıcılığını sağlar ve tekrar ziyaretleri teşvik eder.\n\nAirfresh olarak, güzellik merkezlerine özel koku çözümlerimizle muhteşem bir deneyim sunmanıza yardımcı oluyoruz. Çünkü güzellik, sadece görünen değil, hissedilen bir olgudur!"
+    },
+    "fuel": {
+      "title": "Akaryakıt İstasyonları",
+      "description": "Yakıt kokularını maskeleyen ferah narenciye ve taze çam kokuları ile müşteri konforunu artırın. Bekleme alanlarında özel koku çözümleriyle markanızın prestijini güçlendirin.",
+      "detail": "Akaryakıt istasyonları, genellikle hızlı ziyaret edilen noktalar olsa da, doğru ortam kokulandırmasıyla müşteri deneyimi önemli ölçüde iyileştirilebilir. Yakıt ve motor yağı gibi ağır kokuların baskın olduğu bu alanlarda, hoş ve ferahlatıcı bir koku kullanımı, müşteri konforunu artırarak mekânda daha olumlu bir algı oluşturur.\n\nHafif narenciye, taze çam veya deniz esintisi gibi kokular, yakıt kokusunu maskeleyerek ferah bir atmosfer yaratır ve müşterilerin istasyona olan bağlılığını artırır. Ayrıca, bekleme alanlarında kullanılan özel koku çözümleri, ziyaretçilerin istasyon içinde daha rahat hissetmelerine yardımcı olur ve markanızın prestijini güçlendirir.\n\nAirfresh olarak, akaryakıt istasyonlarına özel koku çözümlerimizle müşteri deneyimini en üst seviyeye taşımanıza yardımcı oluyoruz."
+    },
+    "stores": {
+      "title": "Mağazalar",
+      "description": "Markanızın kimliğini güçlendiren özel koku çözümleriyle müşterilerinizin mağazada daha uzun süre kalmasını sağlayın. Hoş bir koku, satın alma kararlarını da olumlu yönde etkiler.",
+      "detail": "Mağazalar, müşterilerin yalnızca alışveriş yaptığı değil, aynı zamanda markayla duygusal bir bağ kurduğu alanlardır. Koku, bu deneyimi güçlendiren en önemli unsurlardan biridir. Doğru koku seçimi, müşterilerin mağazada daha uzun süre kalmasını sağlarken, olumlu duygular uyandırarak satın alma kararlarını da etkiler.\n\nLüks bir butik için sofistike çiçek notaları, spor mağazaları için enerjik narenciye esansları veya çocuk mağazaları için vanilya gibi sıcak kokular, markanızın kimliğini güçlendirmeye yardımcı olur. Araştırmalar, hoş bir kokunun müşterilerde mağazaya dair olumlu bir izlenim bıraktığını ve tekrar ziyaret oranlarını artırdığını göstermektedir.\n\nAirfresh olarak, mağazanızın atmosferini güçlendiren özel koku çözümlerimizle müşteri deneyimini en üst seviyeye taşıyoruz. Çünkü alışveriş, sadece bir ihtiyaç değil, duyulara hitap eden bir yolculuktur!"
+    },
+    "clinics": {
+      "title": "Klinikler",
+      "description": "Lavanta, nane ve narenciye gibi ferahlatıcı kokularla hastaların kaygı seviyelerini düşürün. Hijyen algısını güçlendirerek güvenilir bir klinik ortamı oluşturun.",
+      "detail": "Klinik ortamlarında hijyen, güven ve konfor hissi oluşturmak, hastaların ve ziyaretçilerin deneyimini doğrudan etkileyen unsurlar arasındadır. Kokunun bu ortamda oynadığı rol ise sıklıkla göz ardı edilse de son derece kritiktir.\n\nDoğru seçilmiş bir koku, hastaların kaygı seviyelerini düşürebilir, rahatlatıcı bir atmosfer oluşturabilir ve genel memnuniyeti artırabilir. Özellikle lavanta, nane veya narenciye gibi ferahlatıcı kokular, stres ve endişeyi azaltarak hastaların kendilerini daha huzurlu hissetmelerine yardımcı olur. Aynı zamanda hoş bir koku, hijyen algısını güçlendirir ve klinik ortamının daha temiz ve güvenilir olduğu izlenimini pekiştirir.\n\nKoku, sadece bir detay değil, müşteri deneyimini iyileştiren ve kliniklerin marka algısını güçlendiren önemli bir unsurdur. Doğru kokulandırma stratejisi ile kliniklerinizi hastalarınız için daha huzurlu ve davetkâr bir ortama dönüştürebilirsiniz."
+    },
+    "gyms": {
+      "title": "Spor Salonları",
+      "description": "Enerji veren narenciye, okaliptüs ve nane kokuları ile antrenman performansını artırın. Ferah ve dinamik bir atmosfer yaratarak müşteri sadakatini güçlendirin.",
+      "detail": "Spor salonlarında hijyen, motivasyon ve konfor hissi oluşturmak, üyelerin deneyimini doğrudan etkileyen önemli unsurlardandır. Kokunun bu ortamda oynadığı rol ise genellikle göz ardı edilse de, doğru kokular antrenman performansını artırabilir ve genel memnuniyeti yükseltebilir.\n\nÖzenle seçilmiş bir koku, spor salonlarında ferahlık ve dinamizm hissi yaratır. Özellikle narenciye, okaliptüs ve nane gibi tazeleyici kokular, enerji seviyelerini yükseltirken, kötü kokuların önüne geçerek hijyen algısını güçlendirir. Aynı zamanda hoş bir koku, spor salonunun temiz ve profesyonel olduğu izlenimini destekler.\n\nAirfresh, spor salonlarında homojen ve sürekli bir koku yayılımı sağlayarak her üyenin antrenman boyunca ferah bir ortamda bulunmasını garantiler. Böylece spor salonu üyelerinin motivasyonu artar ve müşteri sadakati güçlenir.\n\nKoku, sadece bir detay değil, spor salonu deneyimini iyileştiren ve marka algısını güçlendiren önemli bir unsurdur. Doğru kokulandırma stratejisi ile spor salonlarınızı daha davetkâr ve enerjik bir ortama dönüştürebilirsiniz."
+    },
+    "restaurants": {
+      "title": "Restoranlar",
+      "description": "İştah açıcı vanilya, tarçın ve narenciye kokuları ile davetkâr bir atmosfer yaratın. Hoş bir koku, müşteri memnuniyetini artırarak restoranınızı unutulmaz bir mekâna dönüştürür.",
+      "detail": "Restoran ortamında atmosfer, yemek deneyimini doğrudan etkileyen unsurların başında gelir. Kokunun bu atmosferde oynadığı rol ise genellikle göz ardı edilse de, doğru kokular müşteri memnuniyetini artırabilir ve mekânın marka algısını güçlendirebilir.\n\nÖzenle seçilmiş bir koku, restoranlarda iştah açıcı ve davetkâr bir atmosfer yaratır. Vanilya, tarçın ve narenciye gibi sıcak ve hoş kokular, misafirlere huzurlu bir his verirken, kötü kokuların önüne geçerek hijyen algısını güçlendirir. Aynı zamanda hoş bir koku, restoranın temiz ve kaliteli olduğu izlenimini destekler.\n\nAirfresh, restoranlarda homojen ve sürekli bir koku yayılımı sağlayarak her müşterinin keyifli bir yemek deneyimi yaşamasını garantiler. Böylece restoran müşterilerinin memnuniyeti artar ve müşteri sadakati güçlenir.\n\nKoku, sadece bir detay değil, restoran deneyimini iyileştiren ve marka algısını güçlendiren önemli bir unsurdur. Doğru kokulandırma stratejisi ile restoranınızı daha davetkâr ve unutulmaz bir mekâna dönüştürebilirsiniz."
+    },
+    "hotels": {
+      "title": "Oteller",
+      "description": "Rahatlatıcı lavanta, yasemin ve sandal ağacı kokuları ile misafirlerinizin konaklama deneyimini keyifli hale getirin. Prestijli ve konforlu bir ortam algısı yaratın.",
+      "detail": "Otellerde konfor, lüks ve misafirperverlik hissi oluşturmak, müşteri deneyimini doğrudan etkileyen en önemli unsurlardandır. Kokunun bu atmosferde oynadığı rol ise genellikle fark edilmese de, doğru kokular otelin marka algısını güçlendirebilir ve misafirlerin konaklama sürecini daha keyifli hale getirebilir.\n\nÖzenle seçilmiş bir koku, otellerde huzur ve rahatlık hissi yaratır. Lavanta, yasemin ve sandal ağacı gibi rahatlatıcı kokular, misafirlerin stres seviyelerini düşürerek daha konforlu bir konaklama deneyimi sunar. Aynı zamanda hoş bir koku, hijyen algısını güçlendirir ve otelin temiz ve prestijli olduğu izlenimini pekiştirir.\n\nAirfresh, otellerde homojen ve sürekli bir koku yayılımı sağlayarak her misafirin hoş bir atmosferde karşılanmasını garantiler. Böylece müşteri memnuniyeti artar ve otel sadakati güçlenir.\n\nKoku, sadece bir detay değil, otel deneyimini iyileştiren ve marka algısını güçlendiren önemli bir unsurdur. Doğru kokulandırma stratejisi ile otelinizi misafirleriniz için daha davetkâr ve unutulmaz bir mekâna dönüştürebilirsiniz."
+    },
+    "hospitals": {
+      "title": "Hastaneler",
+      "description": "Stres azaltan lavanta, okaliptüs ve yeşil çay kokuları ile hasta ve ziyaretçi konforunu artırın. Temiz ve güvenilir bir sağlık kuruluşu izlenimi oluşturun.",
+      "detail": "Hastanelerde hijyen, güven ve rahatlık hissi oluşturmak, hastalar ve ziyaretçiler için son derece önemlidir. Kokunun bu ortamda oynadığı rol ise genellikle göz ardı edilse de, doğru kokular hastaların kaygı seviyelerini düşürerek daha huzurlu bir atmosfer yaratabilir.\n\nÖzenle seçilmiş bir koku, hastanelerde temiz ve ferah bir ortam algısı oluşturur. Lavanta, okaliptüs ve yeşil çay gibi rahatlatıcı kokular, hastaların stresini azaltırken, kötü kokuların önüne geçerek hijyen algısını güçlendirir. Aynı zamanda hoş bir koku, hastanenin profesyonel ve güvenilir bir sağlık kuruluşu olduğu izlenimini pekiştirir.\n\nAirfresh, hastanelerde homojen ve sürekli bir koku yayılımı sağlayarak her hastanın ve ziyaretçinin daha konforlu bir ortamda bulunmasını garantiler. Böylece hasta memnuniyeti artar ve hastane deneyimi iyileştirilir.\n\nKoku, sadece bir detay değil, sağlık hizmetlerinde hasta ve ziyaretçi konforunu artıran önemli bir unsurdur. Doğru kokulandırma stratejisi ile hastanelerinizi daha huzurlu ve güven veren bir mekâna dönüştürebilirsiniz."
+    },
+    "factories": {
+      "title": "Fabrikalar",
+      "description": "Canlandırıcı nane, limon ve okaliptüs kokuları ile çalışanların enerjisini artırın. Ferah bir ortam yaratarak iş verimliliğini ve çalışan memnuniyetini yükseltin.",
+      "detail": "Fabrikalarda verimlilik, motivasyon ve iş güvenliği, çalışanların performansını doğrudan etkileyen en önemli unsurlardandır. Kokunun bu ortamda oynadığı rol ise genellikle göz ardı edilse de, doğru kokular çalışma alanlarında daha konforlu ve sağlıklı bir atmosfer yaratabilir.\n\nÖzenle seçilmiş bir koku, fabrikalarda ferahlık ve dinamizm hissi sağlar. Nane, limon ve okaliptüs gibi canlandırıcı kokular, çalışanların enerjisini artırırken, kötü kokuların önüne geçerek hijyen algısını güçlendirir. Aynı zamanda hoş bir koku, üretim alanlarının temiz ve düzenli olduğu izlenimini pekiştirir.\n\nAirfresh, fabrikalarda homojen ve sürekli bir koku yayılımı sağlayarak çalışanların daha konforlu ve sağlıklı bir ortamda bulunmasını garantiler. Böylece iş verimliliği artar, çalışan memnuniyeti yükselir ve üretim süreçleri daha verimli hale gelir.\n\nKoku, sadece bir detay değil, çalışma ortamını iyileştiren ve iş yerindeki genel atmosferi olumlu yönde etkileyen önemli bir unsurdur. Doğru kokulandırma stratejisi ile fabrikanızı çalışanlarınız için daha verimli ve motive edici bir mekâna dönüştürebilirsiniz."
+    },
+    "education": {
+      "title": "Eğitim Kurumları",
+      "description": "Odaklanmayı artıran lavanta, nane ve limon kokuları ile öğrencilerin konsantrasyonunu destekleyin. Huzurlu bir öğrenme ortamı yaratarak akademik başarıyı artırın.",
+      "detail": "Eğitim kurumlarında konsantrasyon, motivasyon ve rahatlık hissi oluşturmak, öğrencilerin ve personelin verimliliğini doğrudan etkileyen en önemli unsurlardandır. Doğru kokular öğrenme süreçlerini destekleyebilir ve genel atmosferi iyileştirebilir.\n\nÖzenle seçilmiş bir koku, eğitim kurumlarında huzur ve dikkat seviyesini artıran bir ortam yaratır. Lavanta, nane ve limon gibi ferahlatıcı kokular, öğrencilerin stresini azaltırken odaklanmalarına yardımcı olur. Aynı zamanda hoş bir koku, hijyen algısını güçlendirir ve okulun temiz, düzenli ve güvenilir olduğu izlenimini pekiştirir.\n\nAirfresh, eğitim kurumlarında homojen ve sürekli bir koku yayılımı sağlayarak öğrencilerin ve personelin daha konforlu bir ortamda bulunmasını garantiler. Böylece akademik başarı ve genel memnuniyet artar."
+    }
+  }
+}

@@ -1,0 +1,269 @@
+{
+  "nav": {
+    "home": "Home",
+    "about": "About",
+    "products": "Products",
+    "blog": "Blog",
+    "sectors": "Sectors",
+    "faq": "FAQ",
+    "contact": "Contact"
+  },
+  "hero": {
+    "titleAccent": "FRAGRANCING SOLUTIONS",
+    "subtitle": "Airfresh transforms your space into an experience that is not only seen, but remembered and emotionally connected, with scents specially designed for your brand.",
+    "cta": "Explore",
+    "badge": "Premium Fragrance Collection",
+    "animatedText1": "Beauty Centers",
+    "animatedText2": "Restaurants",
+    "animatedText3": "Schools",
+    "animatedText4": "Stores",
+    "animatedText5": "Hospitals",
+    "button1": "Explore Collection",
+    "button2": "About Us",
+    "stat1": "Years of Experience",
+    "stat2": "Happy Customers",
+    "stat3": "Exclusive Collection",
+    "scroll": "Explore"
+  },
+  "products": {
+    "title": "Fragrance Tools",
+    "subtitle": "Our collection where elegance and quality meet",
+    "viewAll": "View All",
+    "categoryAll": "All",
+    "categoryPremium": "Premium",
+    "categoryElite": "Elite",
+    "categoryLuxury": "Luxury",
+    "categoryExclusive": "Exclusive",
+    "badge": "Collection",
+    "notes": "Notes",
+    "details": "Details",
+    "viewDetails": "View Details"
+  },
+  "blog": {
+    "title": "Blog",
+    "subtitle": "Latest news and tips from the fragrance world",
+    "readMore": "Read More",
+    "viewAll": "All Blog Posts",
+    "badge": "Blog",
+    "post1": {
+      "title": "Things to Consider When Choosing Perfume",
+      "excerpt": "All the tips and tricks you need to know to choose the right perfume...",
+      "category": "Tips"
+    },
+    "post2": {
+      "title": "Perfume Notes: Top, Heart and Base Notes",
+      "excerpt": "Everything you need to know about notes to understand the structure of your perfume...",
+      "category": "Education"
+    },
+    "post3": {
+      "title": "Seasonal Perfume Usage",
+      "excerpt": "Which perfume should you use in which season? Seasonal perfume guide...",
+      "category": "Guide"
+    }
+  },
+  "footer": {
+    "description": "The address of timeless elegance and luxury fragrances",
+    "quickLinks": "Quick Links",
+    "contact": "Contact",
+    "followUs": "Follow Us",
+    "rights": "All rights reserved."
+  },
+  "about": {
+    "title": "About Us",
+    "subtitle": "Where elegance and quality meet",
+    "badge": "About Us",
+    "storyTitle": "Our Story",
+    "story1": "Airfresh is a luxury and quality-focused brand that has been bringing together the most exquisite collections in the fragrance world with its customers since 2010. Our brand, which is the choice of those seeking passion in every drop and perfection in every note, brings together the most special collections of world-renowned perfume houses.",
+    "story2": "Our mission is to help each individual find the perfect scent that reflects their unique style by bringing together the most exquisite products in the fragrance world with our customers. With our principles of quality, reliability and customer satisfaction, we offer an unforgettable experience to fragrance enthusiasts.",
+    "story3": "Our vision is to become Turkey's most prestigious perfume brand and a world-renowned luxury fragrance destination. We continue to offer the best experience to our customers by maintaining our innovative approach in each of our new collections.",
+    "valuesTitle": "Our Values",
+    "valuesSubtitle": "The core values that determine how we do business",
+    "value1": {
+      "title": "Quality",
+      "description": "We guarantee quality with the finest raw materials and meticulous production processes. Each of our products is tested to the highest standards."
+    },
+    "value2": {
+      "title": "Customer Focus",
+      "description": "We work to understand each customer's needs and provide the best service. Customer satisfaction is our priority."
+    },
+    "value3": {
+      "title": "Innovation",
+      "description": "We continue to be a pioneer in the fragrance world with our continuous development and innovative approach."
+    },
+    "stat1": "Years of Experience",
+    "stat2": "Product Variety",
+    "stat3": "Happy Customers",
+    "stat4": "Awards and Certifications"
+  },
+  "contact": {
+    "title": "Contact",
+    "subtitle": "Get in touch with us",
+    "sendMessage": "Send Message",
+    "contactInfo": "Contact Information",
+    "workingHours": "Working Hours",
+    "form": {
+      "name": "Full Name",
+      "namePlaceholder": "Your name and surname",
+      "email": "Email",
+      "emailPlaceholder": "example@email.com",
+      "phone": "Phone",
+      "phonePlaceholder": "+90 (5XX) XXX XX XX",
+      "message": "Your Message",
+      "messagePlaceholder": "Write your message here...",
+      "submit": "Send",
+      "success": "Your message has been sent! We will get back to you as soon as possible."
+    },
+    "info": {
+      "email": "Email",
+      "phone": "Phone",
+      "address": "Address"
+    },
+    "hours": {
+      "weekdays": "Monday - Friday",
+      "saturday": "Saturday",
+      "sunday": "Sunday",
+      "closed": "Closed"
+    }
+  },
+  "features": {
+    "badge": "Why Choose Us?",
+    "heading": "Quality, Elegance and Passion",
+    "feature1": {
+      "title": "Premium Quality",
+      "description": "Collections produced with the finest raw materials, reflecting timeless elegance"
+    },
+    "feature2": {
+      "title": "Expert Team",
+      "description": "Our fragrance experts working with years of experience and passion"
+    },
+    "feature3": {
+      "title": "Reliable Service",
+      "description": "Customer satisfaction-oriented, reliable and professional service approach"
+    },
+    "feature4": {
+      "title": "Exclusive Collections",
+      "description": "Limited edition, specially designed fragrance collections"
+    }
+  },
+  "referanslar": {
+    "title": "Our References",
+    "subtitle": "Our trusted business partners and references"
+  },
+  "signature": {
+    "badge": "Our Services",
+    "title": "Airfresh",
+    "titleAccent": "Your Brand's Invisible Signature",
+    "paragraph1": "Scent is one of the senses that creates the strongest and most lasting impressions in the human mind. Corporate scent enhances your brand's characteristics, making the customer experience extraordinary. A well-chosen scent evokes positive emotions in your customers' minds and encourages them to spend more time in your space.",
+    "paragraph2": "As Airfresh, we transform your corporate identity into an experience that appeals to the senses by offering custom scent solutions for your company.",
+    "paragraph3": "We are here to determine the scent that best reflects you and your customers."
+  },
+  "gallery": {
+    "title": "Our Premium Collection",
+    "badge": "Visual Gallery"
+  },
+  "unique": {
+    "feature1": {
+      "title": "Special Formulation",
+      "description": "Each of our perfumes has a unique scent profile, carefully formulated by our expert perfumers."
+    },
+    "feature2": {
+      "title": "Sustainable Production",
+      "description": "We contribute to nature with our environmentally friendly, sustainable production processes."
+    },
+    "feature3": {
+      "title": "Special Packaging",
+      "description": "Each of our products is presented with special design packaging and can be prepared as a gift."
+    }
+  },
+  "sectors": {
+    "title": "Sectors",
+    "subtitle": "Custom scent solutions for every sector",
+    "badge": "Our Sectors",
+    "viewDetails": "View Details",
+    "beauty": {
+      "title": "Beauty Centers",
+      "description": "Reduce your customers' stress with aromatherapeutic essences and soothing floral notes, allowing them to spend more time enjoying your space. Beauty is not just seen, but felt!",
+      "detail": "Beauty centers are not just areas for care and comfort, but also special spaces that appeal to the senses. Scents are one of the most important elements in this process. A properly measured ambient scent helps reduce customers' stress and allows them to spend more time enjoying your space.\n\nAromatherapeutic essences, soothing floral notes or refreshing herbal scents create both a calming and renewing atmosphere for beauty. In addition, a pleasant scent perception ensures brand memorability for customers and encourages repeat visits.\n\nAs Airfresh, we help you offer an amazing experience with our special scent solutions for beauty centers. Because beauty is not just seen, but felt!"
+    },
+    "fuel": {
+      "title": "Gas Stations",
+      "description": "Increase customer comfort with fresh citrus and pine scents that mask fuel odors. Strengthen your brand's prestige with special scent solutions in waiting areas.",
+      "detail": "Gas stations, although usually quickly visited points, can significantly improve the customer experience with proper ambient scenting. In these areas where heavy odors such as fuel and engine oil are dominant, the use of pleasant and refreshing scents creates a more positive perception in the space by increasing customer comfort.\n\nScents such as light citrus, fresh pine or sea breeze mask fuel odors, creating a fresh atmosphere and increasing customers' loyalty to the station. In addition, special scent solutions used in waiting areas help visitors feel more comfortable inside the station and strengthen your brand's prestige.\n\nAs Airfresh, we help you elevate the customer experience to the highest level with our special scent solutions for gas stations."
+    },
+    "stores": {
+      "title": "Stores",
+      "description": "Keep customers in your store longer with special scent solutions that strengthen your brand identity. A pleasant scent also positively influences purchasing decisions.",
+      "detail": "Stores are areas where customers not only shop, but also form an emotional connection with the brand. Scent is one of the most important elements that strengthens this experience. The right scent choice keeps customers in the store longer while evoking positive emotions that also affect purchasing decisions.\n\nSophisticated floral notes for a luxury boutique, energetic citrus essences for sports stores, or warm scents like vanilla for children's stores help strengthen your brand identity. Research shows that a pleasant scent leaves a positive impression about the store in customers and increases repeat visit rates.\n\nAs Airfresh, we take the customer experience to the highest level with special scent solutions that strengthen your store's atmosphere. Because shopping is not just a need, but a journey that appeals to the senses!"
+    },
+    "clinics": {
+      "title": "Clinics",
+      "description": "Reduce patient anxiety levels with refreshing scents like lavender, mint and citrus. Create a reliable clinical environment by strengthening the perception of hygiene.",
+      "detail": "Creating a sense of hygiene, trust and comfort in clinical settings is among the elements that directly affect the experience of patients and visitors. Although the role that scent plays in this environment is often overlooked, it is extremely critical.\n\nA well-chosen scent can lower patients' anxiety levels, create a relaxing atmosphere and increase overall satisfaction. Especially refreshing scents such as lavender, mint or citrus help patients feel more peaceful by reducing stress and anxiety. At the same time, a pleasant scent strengthens the perception of hygiene and reinforces the impression that the clinical environment is cleaner and more reliable.\n\nScent is not just a detail, but an important element that improves the customer experience and strengthens clinics' brand perception. You can transform your clinics into a more peaceful and welcoming environment for your patients with the right scenting strategy."
+    },
+    "gyms": {
+      "title": "Gyms",
+      "description": "Increase training performance with energizing citrus, eucalyptus and mint scents. Strengthen customer loyalty by creating a fresh and dynamic atmosphere.",
+      "detail": "Creating hygiene, motivation and a sense of comfort in gyms is one of the important elements that directly affect members' experience. Although the role that scent plays in this environment is generally overlooked, the right scents can increase training performance and raise overall satisfaction.\n\nA carefully selected scent creates a sense of freshness and dynamism in gyms. Especially refreshing scents such as citrus, eucalyptus and mint increase energy levels while preventing bad odors and strengthening the perception of hygiene. At the same time, a pleasant scent supports the impression that the gym is clean and professional.\n\nAirfresh guarantees that every member is in a fresh environment throughout their training by providing homogeneous and continuous scent distribution in gyms. Thus, gym members' motivation increases and customer loyalty strengthens.\n\nScent is not just a detail, but an important element that improves the gym experience and strengthens brand perception. You can transform your gyms into a more welcoming and energetic environment with the right scenting strategy."
+    },
+    "restaurants": {
+      "title": "Restaurants",
+      "description": "Create an inviting atmosphere with appetizing vanilla, cinnamon and citrus scents. A pleasant scent increases customer satisfaction and transforms your restaurant into an unforgettable place.",
+      "detail": "Atmosphere in restaurant environments is at the forefront of elements that directly affect the dining experience. Although the role that scent plays in this atmosphere is generally overlooked, the right scents can increase customer satisfaction and strengthen the brand perception of the space.\n\nA carefully selected scent creates an appetizing and inviting atmosphere in restaurants. Warm and pleasant scents such as vanilla, cinnamon and citrus give guests a peaceful feeling while preventing bad odors and strengthening the perception of hygiene. At the same time, a pleasant scent supports the impression that the restaurant is clean and quality.\n\nAirfresh guarantees that every customer has an enjoyable dining experience by providing homogeneous and continuous scent distribution in restaurants. Thus, restaurant customers' satisfaction increases and customer loyalty strengthens.\n\nScent is not just a detail, but an important element that improves the restaurant experience and strengthens brand perception. You can transform your restaurant into a more inviting and unforgettable space with the right scenting strategy."
+    },
+    "hotels": {
+      "title": "Hotels",
+      "description": "Make your guests' stay enjoyable with relaxing lavender, jasmine and sandalwood scents. Create a perception of a prestigious and comfortable environment.",
+      "detail": "Creating a sense of comfort, luxury and hospitality in hotels is among the most important elements that directly affect the customer experience. Although the role that scent plays in this atmosphere is generally not noticed, the right scents can strengthen the hotel's brand perception and make guests' stay more enjoyable.\n\nA carefully selected scent creates a sense of peace and comfort in hotels. Relaxing scents such as lavender, jasmine and sandalwood offer a more comfortable accommodation experience by reducing guests' stress levels. At the same time, a pleasant scent strengthens the perception of hygiene and reinforces the impression that the hotel is clean and prestigious.\n\nAirfresh guarantees that every guest is welcomed in a pleasant atmosphere by providing homogeneous and continuous scent distribution in hotels. Thus, customer satisfaction increases and hotel loyalty strengthens.\n\nScent is not just a detail, but an important element that improves the hotel experience and strengthens brand perception. You can transform your hotel into a more welcoming and unforgettable space for your guests with the right scenting strategy."
+    },
+    "hospitals": {
+      "title": "Hospitals",
+      "description": "Increase patient and visitor comfort with stress-reducing lavender, eucalyptus and green tea scents. Create the impression of a clean and reliable healthcare facility.",
+      "detail": "Creating a sense of hygiene, trust and comfort in hospitals is extremely important for patients and visitors. Although the role that scent plays in this environment is generally overlooked, the right scents can create a more peaceful atmosphere by reducing patients' anxiety levels.\n\nA carefully selected scent creates a perception of a clean and fresh environment in hospitals. Relaxing scents such as lavender, eucalyptus and green tea reduce patients' stress while preventing bad odors and strengthening the perception of hygiene. At the same time, a pleasant scent reinforces the impression that the hospital is a professional and reliable healthcare facility.\n\nAirfresh guarantees that every patient and visitor is in a more comfortable environment by providing homogeneous and continuous scent distribution in hospitals. Thus, patient satisfaction increases and the hospital experience is improved.\n\nScent is not just a detail, but an important element that increases patient and visitor comfort in healthcare services. You can transform your hospitals into a more peaceful and reassuring space with the right scenting strategy."
+    },
+    "factories": {
+      "title": "Factories",
+      "description": "Increase employee energy with invigorating mint, lemon and eucalyptus scents. Increase work efficiency and employee satisfaction by creating a fresh environment.",
+      "detail": "Productivity, motivation and occupational safety in factories are among the most important elements that directly affect employees' performance. Although the role that scent plays in this environment is generally overlooked, the right scents can create a more comfortable and healthy atmosphere in work areas.\n\nA carefully selected scent provides a sense of freshness and dynamism in factories. Invigorating scents such as mint, lemon and eucalyptus increase employees' energy while preventing bad odors and strengthening the perception of hygiene. At the same time, a pleasant scent reinforces the impression that production areas are clean and orderly.\n\nAirfresh guarantees that employees are in a more comfortable and healthy environment by providing homogeneous and continuous scent distribution in factories. Thus, work efficiency increases, employee satisfaction rises and production processes become more efficient.\n\nScent is not just a detail, but an important element that improves the work environment and positively affects the general atmosphere in the workplace. You can transform your factory into a more efficient and motivating space for your employees with the right scenting strategy."
+    },
+    "education": {
+      "title": "Educational Institutions",
+      "description": "Support student concentration with focus-enhancing lavender, mint and lemon scents. Increase academic success by creating a peaceful learning environment.",
+      "detail": "Creating concentration, motivation and a sense of comfort in educational institutions is one of the most important elements that directly affects the productivity of students and staff. The right scents can support learning processes and improve the overall atmosphere.\n\nA carefully selected scent creates an environment in educational institutions that increases peace and attention levels. Refreshing scents such as lavender, mint and lemon help students focus while reducing their stress. At the same time, a pleasant scent strengthens the perception of hygiene and reinforces the impression that the school is clean, orderly and reliable.\n\nAirfresh guarantees that students and staff are in a more comfortable environment by providing homogeneous and continuous scent distribution in educational institutions. Thus, academic success and general satisfaction increase."
+    }
+  },
+  "faq": {
+    "title": "FAQ",
+    "subtitle": "Frequently asked questions and answers",
+    "badge": "FAQ",
+    "question1": "What is professional ambient scenting?",
+    "answer1": "Professional ambient scenting is a process performed using special devices and quality essences to create a pleasant and lasting scent in spaces. It can be applied in workplaces, hotels, stores, hospitals and many other areas.",
+    "question2": "What services does Airfresh offer?",
+    "answer2": "As Airfresh, we offer professional scenting solutions for businesses and individual users. Our services include scent device rental and sales, essence options and installation & maintenance services.",
+    "question3": "What areas is it suitable for?",
+    "answer3": "It can be used in many areas such as stores, hotels, offices, restaurants, hospitals, gyms, shopping centers, parking lots, spa & wellness centers.",
+    "question4": "What are the advantages of professional scent systems?",
+    "answer4": "Provides a more pleasant environment for customers and employees. Improves customer experience with scents suitable for your brand identity. Eliminates bad odors without masking. Long-lasting and cost-effective.",
+    "question5": "How do Airfresh scent devices work?",
+    "answer5": "Our devices distribute essences in ultra-fine particles using advanced cold diffusion technology, spreading homogeneously over large areas.",
+    "question6": "What is the coverage area of the devices?",
+    "answer6": "Our devices are suitable for different areas from 200 m² to 900 m² depending on the model.",
+    "question7": "How are scent devices mounted?",
+    "answer7": "Our devices can be portable, wall-mounted or integrated into the ventilation system. Our installation team offers the most suitable solution according to your needs.",
+    "question8": "How is the maintenance of scent devices done?",
+    "answer8": "Our devices require low maintenance. Long-lasting use is ensured with regular essence changes and periodic cleaning.",
+    "question9": "Are essences harmful to health?",
+    "answer9": "No, all our essences comply with IFRA (International Fragrance Association) standards and are produced from ingredients that do not harm human health.",
+    "question10": "Can you design a special scent for my brand?",
+    "answer10": "Yes! We can strengthen your brand identity by designing a unique scent special to your brand.",
+    "question11": "How can I place an order?",
+    "answer11": "You can place orders through our website, phone or email.",
+    "question12": "Is there a subscription system?",
+    "answer12": "Yes, we have a subscription system that provides regular essence and maintenance services.",
+    "question13": "Can I get a device for trial?",
+    "answer13": "We offer trial services for some of our products. You can contact us for detailed information.",
+    "question14": "Do the devices have a warranty?",
+    "answer14": "Yes, all our devices are covered by a 1-year warranty against manufacturing defects.",
+    "question15": "What is the return and exchange policy?",
+    "answer15": "We offer a satisfaction guarantee on our products. You can return or exchange unused and unopened products within a certain period."
+  }
+}

@@ -1,0 +1,236 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* CSS Variables for header height */
+:root {
+  --header-height: 120px;
+}
+
+/* Base font size adjustments */
+html {
+  font-size: 15px;
+}
+
+body {
+  font-size: 0.875rem; /* 14px */
+  line-height: 1.6;
+  letter-spacing: -0.01em;
+  font-family: var(--font-inter), system-ui, sans-serif;
+  background-color: #f8f9fa;
+}
+
+@layer base {
+  :root {
+    --background: 0 0% 100%;
+    --foreground: 222.2 84% 4.9%;
+  }
+}
+
+@layer utilities {
+  .text-balance {
+    text-wrap: balance;
+  }
+}
+
+/* Premium gradient effects */
+.gradient-overlay {
+  background: linear-gradient(180deg, rgba(0, 0, 0, 0) 0%, rgba(0, 0, 0, 0.7) 100%);
+}
+
+.glass-effect {
+  background: rgba(255, 255, 255, 0.1);
+  backdrop-filter: blur(10px);
+  border: 1px solid rgba(255, 255, 255, 0.2);
+}
+
+/* Smooth animations */
+@keyframes fadeInUp {
+  from {
+    opacity: 0;
+    transform: translateY(30px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+.animate-fade-in-up {
+  animation: fadeInUp 0.6s ease-out;
+}
+
+/* Premium hover effects */
+.hover-lift {
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+.hover-lift:hover {
+  transform: translateY(-8px);
+  box-shadow: 0 20px 40px rgba(0, 0, 0, 0.15);
+}
+
+/* Custom animations for uniqueness */
+@keyframes float {
+  0%, 100% { transform: translateY(0); }
+  50% { transform: translateY(-10px); }
+}
+.animate-float {
+  animation: float 3s ease-in-out infinite;
+}
+
+@keyframes shimmer {
+  0% { background-position: -1000px 0; }
+  100% { background-position: 1000px 0; }
+}
+.animate-shimmer {
+  background: linear-gradient(to right, #f0f0f0 0%, #e0e0e0 20%, #f0f0f0 40%, #f0f0f0 100%);
+  background-size: 200% 100%;
+  animation: shimmer 1.5s infinite linear;
+}
+
+.premium-card {
+  position: relative;
+  overflow: hidden;
+}
+
+.premium-card::before {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: -100%;
+  width: 100%;
+  height: 100%;
+  background: linear-gradient(90deg, transparent, rgba(255, 255, 255, 0.1), transparent);
+  transition: all 0.5s ease;
+}
+
+.premium-card:hover::before {
+  left: 100%;
+}
+
+.decorative-line {
+  display: block;
+  width: 60px;
+  height: 3px;
+  background: linear-gradient(to right, #032d64, #d56803);
+  margin: 0 auto 1.5rem;
+  border-radius: 2px;
+}
+
+.section-divider {
+  width: 100px;
+  height: 2px;
+  background: linear-gradient(to right, transparent, #032d64, transparent);
+  margin: 2rem auto;
+}
+
+.elegant-underline {
+  position: relative;
+  display: inline-block;
+}
+
+.elegant-underline::after {
+  content: '';
+  position: absolute;
+  width: 0;
+  height: 2px;
+  display: block;
+  margin-top: 5px;
+  right: 0;
+  background: #032d64;
+  transition: width 0.3s ease;
+  -webkit-transition: width 0.3s ease;
+}
+
+.elegant-underline:hover::after {
+  width: 100%;
+  left: 0;
+  background: #032d64;
+}
+
+@keyframes rotate-light {
+  0% {
+    transform: rotate(0deg) translate(-50%, -50%);
+  }
+  100% {
+    transform: rotate(360deg) translate(-50%, -50%);
+  }
+}
+
+.premium-badge {
+  position: relative;
+  overflow: hidden;
+}
+
+.premium-badge::before {
+  content: '';
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  width: 150%;
+  height: 150%;
+  background: conic-gradient(from 0deg, transparent 0%, rgba(255, 255, 255, 0.3) 20%, transparent 40%);
+  animation: rotate-light 4s linear infinite;
+  transform-origin: center center;
+  pointer-events: none;
+}
+
+/* Premium background patterns */
+.premium-pattern-1 {
+  background-image: 
+    radial-gradient(circle at 1px 1px, rgba(3, 45, 100, 0.03) 1px, transparent 0);
+  background-size: 40px 40px;
+}
+
+.premium-pattern-2 {
+  background-image: 
+    linear-gradient(45deg, rgba(3, 45, 100, 0.02) 25%, transparent 25%),
+    linear-gradient(-45deg, rgba(3, 45, 100, 0.02) 25%, transparent 25%),
+    linear-gradient(45deg, transparent 75%, rgba(3, 45, 100, 0.02) 75%),
+    linear-gradient(-45deg, transparent 75%, rgba(3, 45, 100, 0.02) 75%);
+  background-size: 60px 60px;
+  background-position: 0 0, 0 30px, 30px -30px, -30px 0px;
+}
+
+.premium-pattern-3 {
+  background-image: 
+    repeating-linear-gradient(
+      0deg,
+      transparent,
+      transparent 2px,
+      rgba(3, 45, 100, 0.02) 2px,
+      rgba(3, 45, 100, 0.02) 4px
+    );
+}
+
+.premium-gradient-bg {
+  background: linear-gradient(135deg, #f8f9fa 0%, #e9ecef 100%);
+}
+
+.premium-gradient-bg-2 {
+  background: linear-gradient(135deg, #ffffff 0%, #f8f9fa 50%, #ffffff 100%);
+}
+
+/* Referanslar Section specific styles */
+@keyframes scroll-left {
+  0% { transform: translateX(0%); }
+  100% { transform: translateX(-100%); }
+}
+
+@keyframes scroll-right {
+  0% { transform: translateX(-100%); }
+  100% { transform: translateX(0%); }
+}
+
+.animate-scroll-left {
+  animation: scroll-left 30s linear infinite;
+}
+
+.animate-scroll-right {
+  animation: scroll-right 30s linear infinite;
+}
+
+.animate-scroll-left:hover, .animate-scroll-right:hover {
+  animation-play-state: paused;
+}
